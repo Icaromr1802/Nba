@@ -66,7 +66,7 @@ body {
   .container{
       text-align: center;
       max-width: 75%;
-      padding-top: 15%;
+      padding-top: 7%;
       padding-bottom: 10%;
       margin-left: 6%;
 
@@ -90,24 +90,11 @@ body {
     padding: 35px 5px 45px 37px;
     border-radius: 20px;
     width: max-content;
-    background-color: rgb(110, 110, 110);
+    background-color: rgb(240, 240, 240);
     box-shadow: 3px 3px 5px 2px #0549c9;
   }
 
-  .raptors{
-    margin: -32px;
-    margin-right: 29px;
-    height: 26px;
-  
-  }
 
-  .raptorss{
-    margin: -20px;
-    margin-right: 33px;
-    height: 10px;
-    margin-top: 10px;
-    
-  }
 
   .div_jogos{
       float: left;
@@ -132,39 +119,42 @@ body {
     }
 
     .but_placar {
-        font-family: 'Times New Roman', Times, serif font-size: 12px;
+        font-family: 'Times New Roman', Times, serif ;
         color: rgb(255, 255, 255);
         background-color: darkblue;
         border: 0px;
         border-radius: 22px;
         cursor: pointer;
         margin: 8px;
-    margin-left: 123px;
+    margin-left: -180px;
     }
 
 
 
 
 .img_placar {
-    width: 326px;
-    margin-left: 142px;
-      }
+  width: 326px;
+  margin-left: 142px;
+  margin-right: 314px;
+  margin-top: 193px;
+}
       
-      .but_classificação{
-        font-family: 'Times New Roman', Times, serif font-size: 12px;
-        color: rgb(255, 255, 255);
-        background-color: darkblue;
-        border: 0px;
-        border-radius: 22px;
-        cursor: pointer;
-        margin: 8px;
-    margin-left: 364px;
-
+.but_classificação{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(255, 255, 255);
+  background-color: darkblue;
+  border: 0px;
+  border-radius: 22px;
+  cursor: pointer;
+  margin: 8px;
+  margin-left: -94px;
+ 
       }
 
       .img_classificação{
-          width: 328px;
-          margin-right: -378px;
+          width: 320px;
+          margin-left: -100px;
+          margin-top: 196px;
       }
    
   
@@ -199,7 +189,11 @@ body {
   margin: -597px;
     height: 1200px;
     margin-right: -1242px;
+    
+
 }
+
+
 
 .trae{
 
@@ -237,6 +231,9 @@ body {
     overflow-x: hidden;
     color: rgb(255, 255, 255);
     margin: -84px;
+
+}
+.h3_james{
 }
 
 .h4_james{
@@ -247,8 +244,11 @@ body {
     overflow-x: hidden;
     color: rgb(255, 183, 195);
     margin: 26px;
-
+  
 }
+
+
+
 
 .quiz{
   margin: -499px;
@@ -275,3 +275,57 @@ body {
     color: rgb(255, 183, 195);
     margin: 26px;
 }
+
+.lojinha{
+  margin-top: -320px;
+  margin-right: -182px;
+}
+
+.raptors{
+  margin-right: 51px;
+    margin-top: 36px;
+    margin-left: 170px;
+}
+
+.celtics{
+  margin-top: 1px;
+  margin-right: 9px;
+  margin-left: 118px;
+}
+
+.lakers{
+  margin-right: -311px;
+    margin-top: -14px;
+    margin-left: 366px;
+}
+
+.nets{
+  margin-right: 59px;
+    margin-top: 0px;
+    margin-left: 15px;
+}
+
+.magic{
+  margin-top: 1px;
+  margin-right: 9px;
+  margin-left: 118px;
+}
+
+.bulls{  
+margin-right: -311px;
+    margin-top: -14px;
+    margin-left: 385px;
+}
+
+.heat{
+  margin-right: 59px;
+    margin-top: 0px;
+    margin-left: -19px;
+}
+
+.warriors{
+  margin-right: 67px;
+  margin-top: 36px;
+  margin-left: 176px;
+}
+
